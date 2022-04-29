@@ -1,17 +1,5 @@
 import os
 
-#with os.chdir('~/house'):
-#os.system(create)
-    
-#add = ("git add .")
-#commit = ('"git commit -m "adding to repo using python"')
-
-#check_status = ("git status")
-
-#os.system(add)
-#os.system(commit)
-#os.system(check_status)
-
 file1 = open('household-items.txt', 'r')
 every_item = file1.readlines()
 
