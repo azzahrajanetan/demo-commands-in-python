@@ -1,0 +1,4 @@
+doorbell
+gate
+house-keys
+shoerack
